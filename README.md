@@ -30,12 +30,11 @@
 
 #### 📍 Full Stack Developer - CodeCafeLab Pvt. Ltd. (05/2024 - Present)
 - Built **360° Feedback Platform** for coaching seminars, with user self-assessments & detailed feedback collection.
-- Developed **online car cleaning service** platform with real-time order tracking.
+
 - Focused on responsive design, performance optimization & seamless user experience.
 
 #### 📍 Full Stack Developer - Vehismart Clean Pvt. Limited (02/2024 - 05/2024)
 - Developed **VehiConnect** - a smart platform for emergency car connectivity & parking management.
-- Implemented real-time communication features and ensured a user-friendly interface.
 - Integrated APIs and ensured high scalability for growing user base.
 
 ---
